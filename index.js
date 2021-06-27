@@ -23,3 +23,5 @@ mongoose
 app.listen(port, () => {
   console.log("app is start on port ", port);
 });
+
+// hello world
